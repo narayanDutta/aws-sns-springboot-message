@@ -1,0 +1,4 @@
+com\springboot\sns\SpringbootSnsMobile.class
+com\springboot\sns\controller\SnsController.class
+com\springboot\sns\config\AwsConfig.class
+com\springboot\sns\model\Notification.class
